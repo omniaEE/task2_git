@@ -3,5 +3,5 @@ class HelloWorld {
     console.log("Hello World");
   }
 }
-
-module.exports = HelloWorld;
+const HelloWorld=new HelloWorld();
+HelloWorld.printHelloWorld();
