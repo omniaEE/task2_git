@@ -1,5 +1,5 @@
 class HelloJava {
-  printHelloWorld() {
+  printHelloFromOmnia() {
     console.log("Hello World from omnia branch");
   }
 }
