@@ -1,6 +1,6 @@
 class HelloJava {
-  printHelloFromOmnia() {
-    console.log("Hello World from omnia branch");
+  printHelloWorld() {
+    console.log("Hello World from main branch updgdate");
   }
 }
 
