@@ -1,6 +1,6 @@
 class HelloJava {
   printHelloWorld() {
-    console.log("Hello World from main branch updgdate");
+    console.log("Hello World from branch amira");
   }
 }
 
