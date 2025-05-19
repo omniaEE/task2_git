@@ -3,7 +3,7 @@ class HelloITI {
     console.log("Hello ITI");
   }
   printHelloGit() {
-    console.log("Hello Git");
+    console.log("Hello amira!");
   }
 }
 // to be able to use this class in another file, we need to export it
