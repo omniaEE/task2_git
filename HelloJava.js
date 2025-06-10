@@ -5,6 +5,9 @@ class HelloWorld {
   printHelloGit() {
         console.log("Hello, Git!");
     }
+  printHelloGit() {
+    console.log("Hello first updated file");
+  }  
 }
 const HelloWorld=new HelloWorld();
 HelloWorld.printHelloWorld();
